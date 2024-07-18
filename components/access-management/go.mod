@@ -14,8 +14,7 @@ require (
 	github.com/sirupsen/logrus v1.4.2
 	go.uber.org/atomic v1.4.0 // indirect
 	go.uber.org/zap v1.10.0 // indirect
-	golang.org/x/crypto v0.0.0-20190513172903-22d7a77e9e5f // indirect
-	golang.org/x/net v0.0.0-20190522155817-f3200d17e092 // indirect
+	golang.org/x/crypto v0.17.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20190523182746-aaccbc9213b0 // indirect
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4 // indirect
 	k8s.io/api v0.0.0-20190222213804-5cb15d344471
